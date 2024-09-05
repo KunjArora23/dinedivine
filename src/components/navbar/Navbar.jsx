@@ -22,7 +22,7 @@ const Navbar = ({ setShowLogin }) => {
           onClick={() => setMenu("home")}
           className={menu === "home" ? "active" : ""}
         >
-          Home
+          Home hai bhaiya ji ye
         </Link>
         <a
           href="#explore-menu"
